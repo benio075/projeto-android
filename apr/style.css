@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span.especial {
+    font-weight: bolder;
+    color: rgb(0, 118, 0);
+}
